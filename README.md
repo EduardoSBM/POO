@@ -1,2 +1,3 @@
 # POO
-Disciplina de Programação Orientada a Objeto(POO), da terceira fase do curso técnico em informática!
+alguns exercicios realizados em python, na terceira fase do curso técnico. 
+Na materia de POO
